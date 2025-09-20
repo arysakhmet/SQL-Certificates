@@ -13,7 +13,7 @@
 
 - 🔵 Kaggle  
   🖼️ [Сертификат](./kaggle%20сертификат.png)  
-  🔗 [Ссылка на Kaggle]([https://www.kaggle.com/learn/certification/ТВОЙ_ID](https://www.kaggle.com/learn/certification/arysakhmet/intro-to-sql))
+  🔗 [Ссылка на Kaggle](https://www.kaggle.com/learn/certification/arysakhmet/intro-to-sql)
 
 - 🟢 SQL Academy  
   🖼️ [Сертификат](./sql%20academy%20сертификат.png)  
