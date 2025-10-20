@@ -19,9 +19,9 @@
   🖼️ [Сертификат](./sql%20academy%20сертификат.png)  
   🔗 [Ссылка на SQL Academy](https://sql-academy.org/ru/certificates)
 
-   - 🟢 HackerRank  
-  🖼️ [Сертификат](./sql%20academy%20сертификат.png)  
-  🔗 [Ссылка на SQL Academy](https://sql-academy.org/ru/certificates)
+ - 🟢 HackerRank  
+  🖼️ [Сертификат](./sql_basic%20certificate.pdf)  
+  🔗 [Ссылка на Сертификат HackerRank ]([https://sql-academy.org/ru/certificates](https://www.hackerrank.com/certificates/iframe/9ac172556051))
 
 
 
