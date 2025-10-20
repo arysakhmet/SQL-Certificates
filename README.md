@@ -21,7 +21,7 @@
 
  - 🟢 HackerRank  
   🖼️ [Сертификат](./sql_basic%20certificate.pdf)  
-  🔗 [Ссылка на Сертификат HackerRank ]([https://sql-academy.org/ru/certificates](https://www.hackerrank.com/certificates/iframe/9ac172556051))
+  🔗 [Ссылка на Сертификат HackerRank ](https://www.hackerrank.com/certificates/iframe/9ac172556051)
 
 
 
